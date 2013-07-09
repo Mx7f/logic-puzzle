@@ -1,4 +1,7 @@
 ///////////////////////////////////////////////////////////////
+// Logic game where you have to create truth tables in order to //
+// win. You are given ending paramaters and have to match such that you get the last result//
+// T F T F                                                  //
 //                                                           //
 //                    CONSTANT STATE                         //
 
