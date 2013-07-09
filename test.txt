@@ -1,1 +1,3 @@
 This is a test commit.
+We really should draw or make a visual representation of the game here. I always forget how it goes. I only seem
+to remember when I try to explain it to you. Maybe we should start with something simpler?
