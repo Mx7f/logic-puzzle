@@ -15,7 +15,7 @@ var START_TIME = currentTime();
 
 // TODO: DECLARE your variables here
 var lastKeyCode;
-
+//apples
 
 ///////////////////////////////////////////////////////////////
 //                                                           //
